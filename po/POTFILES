@@ -1,0 +1,6 @@
+data/com.github.CactiChameleon9.Versions.desktop.in
+data/com.github.CactiChameleon9.Versions.appdata.xml.in
+data/com.github.CactiChameleon9.Versions.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui

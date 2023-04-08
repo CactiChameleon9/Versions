@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="versions">
+	<schema id="com.github.CactiChameleon9.Versions" path="/com/github/CactiChameleon9/Versions/">
+	</schema>
+</schemalist>

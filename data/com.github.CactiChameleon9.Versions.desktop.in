@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=versions
+Exec=versions
+Icon=com.github.CactiChameleon9.Versions
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
