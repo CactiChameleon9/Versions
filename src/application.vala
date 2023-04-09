@@ -11,6 +11,7 @@ namespace Versions {
                 { "quit", this.quit }
             };
             this.add_action_entries (action_entries, this);
+            this.set_accels_for_action ("win.open", {"<Ctrl>o"});
             this.set_accels_for_action ("app.quit", {"<primary>q"});
         }
 
